@@ -8,3 +8,4 @@
 ananya07105/ananya07105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ananya07105&theme=algolia&background=150404)](https://git.io/streak-stats)
