@@ -10,18 +10,23 @@ You can click the Preview link to take a look at your changes.
 --->
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=ananya07105&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
  &nbsp;
-
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ananya07105&theme=algolia&background=150404)](https://git.io/streak-stats)
 
+<!--graph-->
+<br><br><br><br>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ananya07105&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<!--stats-->
 <p>
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananya07105&theme=algolia&background=150404" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananya07105&theme=radical&layout=compact&exclude_lang=java+r" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ananya07105&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
-
+<br><br>
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
