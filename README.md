@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <img align="right" height="270px" width="320px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ananya07105&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ananya07105&theme=algolia)](https://git.io/streak-stats)
 
 <!--graph-->
 <br><br><br><br>
@@ -22,8 +22,8 @@ You can click the Preview link to take a look at your changes.
 <!--stats-->
 <p>
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananya07105&theme=radical&layout=compact&exclude_lang=java+r" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ananya07105&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananya07105&theme=algolia&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ananya07105&theme=algolia&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 <br><br>
