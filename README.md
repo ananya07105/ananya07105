@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Ananya
-- 👀 I’m interested in learning new things
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Ananya Sharma</h1>
+- 👀 I’m interested in DataScience
 - 🌱 I’m currently learning Web development, Data Analytics
 - 💞️ I’m looking to collaborate on new opportunities for my career growth
-- 📫 How to reach me --> mail: msananyasharma630@gmail.com
+
 
 <!---
 ananya07105/ananya07105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,17 +20,18 @@ You can click the Preview link to take a look at your changes.
 
 <!--graph-->
 <br><br><br><br>
-<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ananya07105&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ananya07105&bg_color=050f2c&color=F8D866&line=00aeff&point=FFFFFF&hide_border=true" /></a>
 
 <!--stats-->
+<br>
 <p>
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananya07105&theme=algolia&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananya07105&theme=algolia&layout=compact&exclude_lang=java+r" />&nbsp&nbsp&nbsp&nbsp
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ananya07105&theme=algolia&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 <br><br>
-##  🤝🏻 &nbsp;Connect with Me
+ 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://ananya07105.github.io/"><img src="https://img.shields.io/badge/-ananyasharma.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
