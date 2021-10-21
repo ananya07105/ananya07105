@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=ananya07105&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
  &nbsp;
-<img align="right" height="270px" width="320px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="270px" width="310px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ananya07105&theme=algolia)](https://git.io/streak-stats)
