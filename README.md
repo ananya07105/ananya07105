@@ -2,8 +2,8 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Ananya Sharma</h1>
-- 👀 I’m interested in DataScience
-- 🌱 I’m currently learning Web development, Data Analytics
+- 👀 Software Development Intern @ Petro IT
+- 🌱 I’m currently learning Data Structures, Data Analytics
 - 💞️ I’m looking to collaborate on new opportunities for my career growth
 
 
