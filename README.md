@@ -61,11 +61,11 @@ You can click the Preview link to take a look at your changes.
 # 🌱Social
 
 <div align="center">
-    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=ananya07105&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
+   <img height="150px" src="https://github-profile-trophy.vercel.app/?username=ananya07105&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
 </div>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananya07105&theme=algolia&layout=compact&exclude_lang=java+r" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://github.com/AVS1508"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananya07105&theme=algolia&layout=compact&exclude_lang=java+r" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ananya07105&theme=algolia&layout=compact&exclude_lang=java+r" />
 </a>
 
