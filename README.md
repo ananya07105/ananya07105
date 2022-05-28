@@ -11,27 +11,75 @@
 ananya07105/ananya07105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<br><br>
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=ananya07105&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
- 
-<img align="right" height="270px" width="300px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+# 🛠 Tech Stack
+
+> skills
+
+- 🔭 back-end： ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)![Spring](https://img.shields.io/badge/-C%2B%2B-green)![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
+
+- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-blue?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
+
+- :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-circle&logo=Tableau) ![Postman](https://img.shields.io/badge/-Postman-blue?style=flat-circle&logo=Postman)
+
+- ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell)![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)
+
+- 💻 db：![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
+
+- 🌱 learning：![Algorithms](https://img.shields.io/badge/-Algorithms-yellow?style=flat-circle&logo=Algorithm)![DataStructures](https://img.shields.io/badge/-DataStructures-green?style=flat-circle&logo=DataStructures)
+
+  
+
+> Language usage
+
+<div align="center">
+    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=ananya07105&theme=gruvbox_light&layout=compact"/>
+</div>
+
+> Code analysis
+
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ananya07105&theme=algolia)](https://git.io/streak-stats)
+# 🔭Actions
 
-<!--graph-->
+<div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=holic-x"/>
+</div>
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/ananya07105/assets/github-contribution-grid-snake.svg" />
+</div>
 
-<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ananya07105&bg_color=050f2c&color=F8D866&line=00aeff&point=FFFFFF&hide_border=true" /></a>
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=ananya07105&theme=github"/>
+</div>
 
-<!--stats-->
-<br>
-<p>
+<div align="center">
+    <img height="300px" src="https://metrics.lecoq.io/ananya07105?template=classic&config.timezone=Asia%2FShanghai"/>
+</div>
+
+# 🌱Social
+
+<div align="center">
+    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=ananya07105&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
+</div>
+
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananya07105&theme=algolia&layout=compact&exclude_lang=java+r" />&nbsp&nbsp
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananya07105&theme=algolia&layout=compact&exclude_lang=java+r" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ananya07105&theme=algolia&layout=compact&exclude_lang=java+r" />
 </a>
-</p>
-<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
