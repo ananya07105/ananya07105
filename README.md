@@ -44,10 +44,10 @@ You can click the Preview link to take a look at your changes.
 # 🔭Actions
 
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=holic-x"/>
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya07105"/>
 </div>
 <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/ananya07105/assets/github-contribution-grid-snake.svg" />
+	<img src="https://cdn.jsdelivr.net/gh/ananya07105/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 
 <div align="center">
